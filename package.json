@@ -1,0 +1,14 @@
+{
+  "name": "gyro.js",
+  "version": "0.1.0",
+  "description": "gyro.js is an adaptor which combines all the current interfaces and standards on reading Gyro and Accelerometer information and combines them into one simple object.",
+  "main": "js/gyro.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomgco/gyro.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tomgco/gyro.js/issues"
+  },
+  "homepage": "https://github.com/tomgco/gyro.js"
+}
